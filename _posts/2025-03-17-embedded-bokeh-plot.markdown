@@ -15,7 +15,7 @@ Focusing specifically on incidents involving drugs and narcotics, we explore thr
 
 We further place our findings into context by comparing them with recent external data on drug overdose deaths from the New York Times.
 
- **1. The Rise and Decline of Drug Crimes**
+#### **1. The Rise and Decline of Drug Crimes**
 
 Between 2003 and 2010, San Francisco experienced a noticeable increase in drug-related crimes, peaking near 12,000 reported incidents in 2010. After this peak, a steady decline began, becoming particularly pronounced around 2020. This sharp drop aligns with the onset of the COVID-19 pandemic and the associated lockdown measures, which significantly reduced public interactions and likely disrupted drug markets and street-level drug transactions.
 
@@ -32,7 +32,7 @@ According to a [recent report by the New York Times](https://www.nytimes.com/202
 
 
 
-## **2. Hotspots in the City: Where Drug Crimes Occur**
+#### **2. Hotspots in the City: Where Drug Crimes Occur**
 
 Drug-related incidents in San Francisco are not evenly spread across the city. Instead, they cluster prominently in the downtown core, particularly the Tenderloin neighborhood. This densely populated area, characterized by socioeconomic challenges, high levels of homelessness, and proximity to public transit hubs, has historically been a focal point for drug-related activity.
 
@@ -78,7 +78,7 @@ Additional clusters occur in the Southern District along busy public transport h
 
 
 
-## **3. Understanding Connections: Drugs and Other Crimes**
+#### **3. Understanding Connections: Drugs and Other Crimes**
 
 Drug crimes rarely occur in isolation. To better understand these connections, we analyzed correlations between drug-related incidents and other crime types across different hours of the week.
 
@@ -176,7 +176,7 @@ Interestingly, violent crimes, such as assault (0.63) and burglary (0.46), show 
   {% endraw %}
 
 
-## **Conclusion**
+#### **Conclusion**
 Police reports of drug-related crimes have declined significantly over recent years, drug overdose deaths have tragically increased, highlighting a disconnect between reported incidents and public health realities.
 
 Strong correlations between drug crimes and property crimes further suggest the need for approaches addressing economic factors alongside addiction treatment.
