@@ -6,8 +6,7 @@ date: 2025-03-17
 
 {% raw %}
 <!-- Include the BokehJS library (match the version used in your embed data) -->
-<!DOCTYPE html>
-<html lang="en">
+
   <head>
     <meta charset="utf-8">
     <title>Bokeh Plot</title>
@@ -67,7 +66,7 @@ date: 2025-03-17
       })();
     </script>
   </body>
-</html>
+
 
 
 
