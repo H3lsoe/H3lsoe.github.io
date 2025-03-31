@@ -5,7 +5,7 @@ date: 2025-03-17
 ---
 <em> Written by Gustav (s214940) and Morten (s214927) </em>
 
-This post leverages detailed crime data collected by the San Francisco Police Department (SFPD), covering incidents from 2003 to 2024. Each entry in the dataset represents a specific reported crime, recording the date, time, location, and category of crime—ranging from theft and assault to drug-related offenses.
+This post leverages detailed crime data collected by the San Francisco Police Department (SFPD), covering incidents from 2003 to 2025 (till present day, 17 march 2025). Each entry in the dataset represents a specific reported crime, recording the date, time, location, and category of crime—ranging from theft and assault to drug-related offenses.
 
 Focusing specifically on incidents involving drugs and narcotics, we explore three key questions:
 
