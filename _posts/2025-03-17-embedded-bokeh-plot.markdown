@@ -6,7 +6,12 @@ date: 2025-03-17
 
 {% raw %}
 <!-- Include the BokehJS library (match the version used in your embed data) -->
+<link rel="stylesheet" href="https://cdn.bokeh.org/bokeh/release/bokeh-3.6.3.min.css">
+<link rel="stylesheet" href="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.6.3.min.css">
+
 <script src="https://cdn.bokeh.org/bokeh/release/bokeh-3.6.3.min.js"></script>
+<script src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-3.6.3.min.js"></script>
+
 
 <script type="text/javascript">
         (function() {
