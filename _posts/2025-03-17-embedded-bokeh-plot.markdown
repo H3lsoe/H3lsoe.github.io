@@ -9,7 +9,23 @@ date: 2025-03-17
 
 This analysis uses publicly available crime data collected by the San Francisco Police Department (SFPD). The dataset contains detailed information about individual crime incidents reported across San Francisco from 2003 to the present day. For each incident, the dataset provides the date and time when the crime was reported, its precise geographical location (latitude and longitude), the type of crime committed (such as theft, assault, drug-related crimes, etc.), and the outcome or resolution of the case.
 
-This data allows us to explore and understand patterns in crime occurrences over time, examine how certain types of crimes cluster geographically in San Francisco neighborhoods, and analyze relationships between different crime categories. In this analysis, we specifically focus on incidents related to drugs and narcotics, examining their temporal trends, geographical hotspots, and correlations with other crime types.
+In this analysis, we specifically focus on incidents related to drugs and narcotics, examining their temporal trends, geographical hotspots, and correlations with other crime types.
+
+
+Over the past two decades, drug-related crimes in San Francisco experienced a notable shift. Incidents steadily increased from 2003, reaching their peak around 2010 with almost 12,000 cases annually. Post-2010, the trend reversed, showing a sustained decline. A particularly noticeable drop around 2020 aligns with the COVID-19 pandemic, likely due to lockdown measures and reduced social interactions.
+
+
+
+An interactive correlation analysis demonstrates how drug-related crimes relate closely to other types of crime. Most strikingly, there's a significant correlation (0.89) between drug incidents and stolen property cases, followed closely by vehicle theft (0.79) and larceny/theft (0.74). These correlations suggest drug crimes often intersect with property crimes, potentially indicating theft as a means to fund drug habits or exchanges.
+
+In contrast, correlations with violent crimes, such as assault or burglary, were noticeably lower. This insight is valuable for city planning and law enforcement, emphasizing the need to address drug and property crimes jointly rather than independently.
+
+![Total drug / narcotics incidents per year](/assets/images/barplot-time-series.png)
+
+
+Examining the geographical distribution of these incidents reveals clear hotspots. The Tenderloin district and the nearby downtown areas emerge prominently. These regions are historically known for socioeconomic challenges, dense populations, and active nightlife, factors frequently associated with increased drug-related activities. Other smaller clusters appear in areas like the Mission District and along major transit routes, highlighting the connection between drug crimes and urban activity zones.
+
+
 
 {% raw %}
 <!-- Include the BokehJS library (match the version used in your embed data) -->
