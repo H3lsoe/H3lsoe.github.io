@@ -3,6 +3,7 @@ layout: post
 title: "Drug-Related Crime in San Francisco: Trends, Locations, and Surprising Contrasts"
 date: 2025-03-17
 ---
+<em> Written by Gustav (s214940) and Morten (s214927) </em>
 
 This post leverages detailed crime data collected by the San Francisco Police Department (SFPD), covering incidents from 2003 to 2024. Each entry in the dataset represents a specific reported crime, recording the date, time, location, and category of crime—ranging from theft and assault to drug-related offenses.
 
@@ -185,6 +186,6 @@ Strong correlations between drug crimes and property crimes further suggest the 
 
 Sources: 
 
-1. https://growsf.org/blog/prop-47/#overdoses (overdose deaths spiked after Prop 47's passage)
-2. https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html, New York Times (overdose deaths)
-3. https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/ (overdose deaths)
+1. [overdose deaths spiked after Prop 47's passage, https://growsf.org/blog/prop-47/#overdoses](https://growsf.org/blog/prop-47/#overdoses) 
+2. [New York Times, drug overdose, (https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html](https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html)
+3. [SFcroncicle overdose deaths, https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths](https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths)
