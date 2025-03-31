@@ -37,9 +37,7 @@ Drug-related incidents in San Francisco are not evenly spread across the city. I
 
 
 
-Additional clusters occur in the Mission District and along busy transit corridors and nightlife areas, emphasizing a clear link between urban mobility, socioeconomic factors, and drug crimes. Such geographic insights can help direct targeted interventions, combining community-driven solutions with focused policing to manage these hotspots effectively. Understanding these areas and their characteristics helps policymakers develop integrated responses, blending law enforcement with public health strategies such as harm reduction programs, rehabilitation, and improved social services.
-
-
+Additional clusters occur in the Southern District along busy public transport hubs and nightlife areas, emphasizing a clear link between urban mobility and drug crimes. Such geographic insights can help direct targeted interventions, combining community-driven solutions with focused policing to manage these hotspots effectively.
 
 
 
