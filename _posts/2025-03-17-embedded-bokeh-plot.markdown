@@ -4,6 +4,13 @@ title: "Embedding a Bokeh Plot"
 date: 2025-03-17
 ---
 
+
+**Introduction to the Dataset**
+
+This analysis uses publicly available crime data collected by the San Francisco Police Department (SFPD). The dataset contains detailed information about individual crime incidents reported across San Francisco from 2003 to the present day. For each incident, the dataset provides the date and time when the crime was reported, its precise geographical location (latitude and longitude), the type of crime committed (such as theft, assault, drug-related crimes, etc.), and the outcome or resolution of the case.
+
+This data allows us to explore and understand patterns in crime occurrences over time, examine how certain types of crimes cluster geographically in San Francisco neighborhoods, and analyze relationships between different crime categories. In this analysis, we specifically focus on incidents related to drugs and narcotics, examining their temporal trends, geographical hotspots, and correlations with other crime types.
+
 {% raw %}
 <!-- Include the BokehJS library (match the version used in your embed data) -->
 
