@@ -178,11 +178,10 @@ Interestingly, violent crimes, such as assault (0.63) and burglary (0.46), show 
 
 
 ## **Conclusion**
-Analyzing crime trends in San Francisco reveals valuable insights into the complex landscape of drug-related issues. While police reports of drug-related crimes have declined significantly over recent years, drug overdose deaths have tragically increased, highlighting a disconnect between reported incidents and public health realities.
+Police reports of drug-related crimes have declined significantly over recent years, drug overdose deaths have tragically increased, highlighting a disconnect between reported incidents and public health realities.
 
-Geographic hotspots like the Tenderloin require targeted, multi-dimensional interventions that go beyond law enforcement, integrating social, health, and economic strategies. Strong correlations between drug crimes and property crimes further suggest the need for approaches addressing economic factors alongside addiction treatment.
+Strong correlations between drug crimes and property crimes further suggest the need for approaches addressing economic factors alongside addiction treatment.
 
-Ultimately, San Francisco’s experience provides essential lessons: drug-related problems cannot be solved by criminal justice efforts alone. Effective solutions must include comprehensive public health strategies, socioeconomic interventions, and coordinated community actions.
 
 
 
