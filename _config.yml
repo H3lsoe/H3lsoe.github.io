@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Helsø DataVizart
+title: Gustav & Morten
 email: morten@helsoe.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Morten, i am 24 years old and studying Human-centered artificial intelligence at The technical university of Denmark (DTU)
+  Gustav and Mortens fantastic data visualizations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  H3lsoe
-linkedin_username: Morten Helsø
+# github_username:  H3lsoe
 # linkedin_url: www.linkedin.com/in/morten-helsø-2a963220b
 # Build settings
 theme: minima
