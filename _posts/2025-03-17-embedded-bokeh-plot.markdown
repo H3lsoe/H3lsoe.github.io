@@ -28,9 +28,6 @@ According to a [recent report by the New York Times](https://www.nytimes.com/202
 
 
 
-![Total drug / narcotics incidents per year](/assets/images/barplot-time-series.png)
-
-
 
 
 
